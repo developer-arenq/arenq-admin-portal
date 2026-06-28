@@ -1,0 +1,41 @@
+export const subcategories = [
+  "Apple",
+  "Tea",
+  "Chamba-Thaal",
+  "Tulsi-Ark",
+  "Soap",
+  "Pine",
+  "Chamba-Rumal",
+  "Jam",
+  "Chutneys",
+  "Juice",
+  "Cap",
+  "Pulses",
+  "Shilajit",
+  "Oils",
+  "Dry-Fruits",
+  "Honey",
+  "Saffron",
+  "Attas",
+  "Snacks",
+  "Superfood-Powders",
+  "Cookies",
+  "Superfoods",
+  "Mouth-Freshener",
+  "Red-Rice",
+  "Flax-Seeds",
+  "Ghee",
+  "Foot-Soak",
+  "Box",
+  "Chocolate",
+  "Handbags",
+  "Lahaul-Socks",
+  "Face-Scrub",
+  "Vinegar",
+  "Incense-Sticks",
+  "Spices"
+];
+
+export const sizeOptions = ["5","6", "7", "8", "9"];
+export const weightOptions = ["100g", "250g", "500g", "1kg" ,'2kg' ,'5kg'];
+export const mlOptions = ["100ml", "250ml", "500ml", "1L"];
